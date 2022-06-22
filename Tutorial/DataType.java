@@ -1,3 +1,4 @@
+package Tutorial;
 public class DataType {
    public static void main(String[] args) {
       boolean b = true;
